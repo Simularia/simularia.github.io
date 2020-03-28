@@ -8,4 +8,4 @@ Simularia is an environment consultancy company based in Torino, Italy founded i
 
 We plan to use this blog to share ideas, technical details, suggestions and experiences to help our customres and the air quality community.
 
-You can find more details about as at [Simularia](https://www.simularia.it).
+You can find more details about us at [Simularia](https://www.simularia.it).
